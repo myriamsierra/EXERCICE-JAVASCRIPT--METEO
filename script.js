@@ -1,8 +1,4 @@
-//9a1de09260d34d493b86d118e71e8a82
-//https://api.openweathermap.org/data/2.5/weather? units=metric
-//https://api.openweathermap.org/data/2.5/weather?q=France&appid=9a1de09260d34d493b86d118e71e8a82&units=metric
 
-//1 regarder si ma page est ok
 console.log("ok")
 
 const apiKey ="9a1de09260d34d493b86d118e71e8a82";
